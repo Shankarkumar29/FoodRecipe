@@ -1,0 +1,108 @@
+.container{
+    border: 2px solid rgb(8, 180, 180);
+    justify-content: center;
+    text-align: center;
+    padding:194px 190px 46px 189px;
+    margin: 82px 379px 114px 397px;
+    background-color: darkturquoise;
+    border-radius: 10px;
+}
+.firstpara
+{
+    padding: 0px 69px 0px 27px;
+    margin: -155px 17px 28px 51px;
+}
+.container h3
+{
+    padding: 100px 309px 0px 0px;
+    margin: -76px 17px 3px -49px;
+}
+.thirdpara
+{
+     /* margin: 25px; */
+}
+.secondpara
+{
+    /* text-align: ; */
+    padding: 2px 67px 3px 25px;
+    margin: 9px 100px 21px -87px;
+      justify-content: end;
+    border-radius: 15px;
+
+    /* background-color: rgb(216, 202, 207); */
+}
+.fourthpara
+{
+    padding: 2px 67px 3px 25px;
+    margin: 9px 100px 21px -87px;
+    justify-content: end;
+    border-radius: 15px;
+}
+.btnsuccess
+{
+    padding: 0px 30px 4px 9px;
+    margin: 23px 263px 0px -79px;
+    border-radius: 15px;  
+}
+/* .fifthpara
+{
+    padding: 2px 18px 5px 9px;
+    border: 1px solid darkcyan;
+    margin: 17px 30px 26px 72px;
+    text-decoration:none;
+    border-radius: 20px;
+   
+} */
+.fifthpara a{
+    text-decoration: none;
+    color: black
+    ;
+}
+body{
+    background-color: rgb(19, 133, 232);
+    font-family: 'Fira Sans', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto Mono', monospace;
+}
+.typebutton2
+{
+    font-style: italic;
+
+    font-weight: bold;
+    
+    border: 2px solid maroon;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 6px 19px 7px 14px;
+    margin: -11px 9px -7px 484px;
+    color: aqua;
+    border-radius: 10px;
+    text-decoration: none;
+}
+.styled {
+    border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+    background-color: rgba(220, 0, 0, 1);
+    background-image: linear-gradient(to top left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) 30%, rgba(0, 0, 0, 0));
+    box-shadow:
+      inset 2px 2px 3px rgba(255, 255, 255, 0.6),
+      inset -2px -2px 3px rgba(0, 0, 0, 0.6);
+      margin: 5px 4px 5px -344px;
+  }
+  
+  .styled:hover {
+    background-color: rgba(255, 0, 0, 1);
+  }
+  
+  .styled:active {
+    box-shadow:
+      inset -2px -2px 3px rgba(255, 255, 255, 0.6),
+      inset 2px 2px 3px rgba(0, 0, 0, 0.6);
+  }
+  

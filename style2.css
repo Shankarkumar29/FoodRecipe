@@ -1,0 +1,155 @@
+body
+{
+    background-color:rgb(135, 201, 69);
+}
+.login
+{
+    border: 1px solid green;
+    padding:6px 63px 7px 19px;
+    margin: -32px 475px -57px 581px;
+}
+.container
+{
+    border: 2px solid green;
+    padding: 53px 155px 92px 88px;
+    margin: 100px 277px 85px 312px;
+    border-radius: 60px;
+    background-color: blanchedalmond;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Jost', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    display: block;
+}
+.zeropara
+{
+    padding: 0px 41px 41px 298px;
+    margin: 2px 16px 16px 13px;
+    color: rgb(94, 29, 214);
+    
+}
+.firstname{
+    padding: -3px 11px 10px 12px;
+    margin: 9px 13px 7px 1px;
+}
+.firstnameInput
+{
+    padding: 0px 91px 2px 12px;
+    margin: 1px 8px 11px 1px;
+    border-radius: 9px;
+    border: 2px solid darkslateblue;
+    /* color: green; */
+    background-color: rgb(15, 240, 240);
+}
+.lastname
+{
+    padding: -3px 11px 10px 12px;
+    margin: 9px 13px 7px 1px;    
+
+}
+.lastnameInput
+{
+    padding: 0px 91px 2px 12px;
+    margin: 1px 8px 11px 1px;
+    border-radius: 9px;
+    border: 2px solid darkslateblue;
+    background-color: rgb(15, 240, 240);
+}
+.E-mail
+{
+    padding: -3px 11px 10px 12px;
+    margin: 9px 13px 7px 1px; 
+}
+.E-mailinput
+{
+    padding: 0px 91px 2px 12px;
+    margin: 1px 8px 11px 1px;
+    border-radius: 9px;
+    border: 2px solid darkslateblue;
+    background-color: rgb(15, 240, 240);
+}
+.Password
+{
+    padding: -3px 11px 10px 12px;
+    margin: 9px 13px 7px 1px;
+}
+.PasswordInput
+{
+    padding: 0px 91px 2px 12px;
+    margin: 1px 8px 11px 1px;
+    border-radius: 9px;
+    border: 2px solid darkslateblue;
+    background-color: rgb(15, 240, 240);
+}
+.Confirmpassword
+{
+    padding: -3px 11px 10px 12px;
+    margin: 9px 13px 7px 1px;
+}
+.Confirmpasswordinput
+{
+    padding: 0px 91px 2px 12px;
+    margin: 1px 8px 11px 1px;
+    border-radius: 9px;
+    border: 2px solid darkslateblue;
+    background-color: rgb(15, 240, 240);
+}
+.complete{
+    /* border: 2px solid darkkhaki; */
+    color: rgb(24, 236, 119);
+    padding: 23px 129px -6px 3px;
+    margin: 1px 14px -11px 8px;
+    /* text-align: center; */
+    text-decoration: end;
+    border-radius: 15px;
+}
+/* .complete button
+{
+    transition: 0.4s;
+      border-radius: 15px;
+      border: 2px solid green;
+      background-color: azure;
+      padding: 5px 14px 7px 13px;
+      margin: 2px 19px 0px 7px;
+} */
+.typebutton
+{
+    font-style: italic;
+
+    font-weight: bold;
+    
+    border: 2px solid maroon;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 6px 19px 7px 14px;
+    margin: -11px 9px -7px 484px;
+    color: aqua;
+    border-radius: 10px;
+    text-decoration: none;
+}
+.styled {
+    border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+    background-color: rgba(220, 0, 0, 1);
+    background-image: linear-gradient(to top left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) 30%, rgba(0, 0, 0, 0));
+    box-shadow:
+      inset 2px 2px 3px rgba(255, 255, 255, 0.6),
+      inset -2px -2px 3px rgba(0, 0, 0, 0.6);
+  }
+  
+  .styled:hover {
+    background-color: rgba(255, 0, 0, 1);
+  }
+  
+  .styled:active {
+    box-shadow:
+      inset -2px -2px 3px rgba(255, 255, 255, 0.6),
+      inset 2px 2px 3px rgba(0, 0, 0, 0.6);
+  }
+  

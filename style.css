@@ -114,6 +114,19 @@
     margin-top: 1.8em;
     color: #202030;
   }
+  .Signup
+  {
+    padding: 12px 22px 2px 14px;
+    margin: 15px 312px -26px 4px;
+    border: 2px solid darkblue;
+    background-color: aqua;
+    text-decoration: none;
+  }
+  .Signup a:hover
+  {
+    text-decoration: none;
+    
+  }
   @media screen and (max-width: 500px) {
     .container {
       font-size: 14px;
